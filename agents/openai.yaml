@@ -1,0 +1,4 @@
+interface:
+  display_name: "edity"
+  short_description: "Edit natural short videos with white captions"
+  default_prompt: "Use $edity to edit my footage with the screen recording below my face."
